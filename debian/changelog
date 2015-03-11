@@ -1,0 +1,7 @@
+apertium-af-nl (0.2.0~r57554-1) trusty; urgency=low
+
+  [ Tino Didriksen ]
+  * Initial release
+  * No significant changes in svn since tarball, so taking directly from svn
+
+ -- Kartik Mistry <kartik@debian.org>  Wed, 11 Mar 2015 08:42:25 +0530
