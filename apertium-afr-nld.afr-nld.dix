@@ -196,6 +196,7 @@
 
     <!-- SECTION: Prepositions -->
 	<e><p><l>sedert<s n="pr"/></l><r>sinds<s n="pr"/></r></p></e>
+	<e><p><l>rondom<s n="pr"/></l><r>rond<s n="pr"/></r></p></e>
 	<e><p><l>daartoe<s n="pr"/></l><r>daartoe<s n="pr"/></r></p></e>
 	<e><p><l>ondanks<s n="pr"/></l><r>ondanks<s n="pr"/></r></p></e>
 	<e><p><l>daar<s n="pr"/></l><r>er<s n="pr"/></r></p></e>
@@ -297,6 +298,7 @@
     <e><p><l>prpers<s n="prn"/><s n="ref"/></l><r>prpers<s n="prn"/><s n="ref"/></r></p></e>
 	
 	<e><p><l>sig<s n="prn"/><s n="ref"/></l><r>zich<s n="prn"/><s n="ref"/></r></p></e>
+	<e><p><l>hom<s n="prn"/><s n="ref"/></l><r>zich<s n="prn"/><s n="ref"/></r></p></e>
 	<e><p><l>men<s n="prn"/><s n="tn"/></l><r>men<s n="prn"/><s n="tn"/></r></p></e>
 	<e><p><l>mekaar<s n="prn"/><s n="tn"/></l><r>elkaar<s n="prn"/><s n="tn"/></r></p></e>
 	<e><p><l>dieselfde<s n="prn"/><s n="tn"/><s n="mf"/></l><r>dezelfde<s n="prn"/><s n="tn"/><s n="mf"/></r></p></e>
@@ -466,6 +468,11 @@
     <e><p><l>XXII<s n="num"/></l><r>XXII<s n="num"/></r></p></e>
 
     <!-- SECTION: Nouns -->
+	<e><p><l>duikdiensverskaffer<s n="n"/></l><r>duikoperator<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>nesplek<s n="n"/></l><r>nestplaats<s n="n"/><s n="mf"/></r></p></e>
+	<e><p><l>kaktus<s n="n"/></l><r>cactus<s n="n"/><s n="m"/></r></p></e>
+	<e><p><l>ontspanningsoord<s n="n"/></l><r>recreatieoord<s n="n"/><s n="nt"/></r></p></e>
+
 	<e><p><l>vriend<s n="n"/></l><r>vriend<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>kardinaal<s n="n"/></l><r>kardinaal<s n="n"/><s n="m"/></r></p></e>
 	<e><p><l>kalender<s n="n"/></l><r>kalender<s n="n"/><s n="m"/></r></p></e>
@@ -5815,7 +5822,8 @@
     <e><p><l>vrees<s n="vblex"/></l><r>vrezen<s n="vblex"/></r></p></e>
     <e><p><l>verfyn<s n="vblex"/></l><r>verfijnen<s n="vblex"/></r></p></e>
     <e><p><l>belemmer<s n="vblex"/></l><r>belemmeren<s n="vblex"/></r></p></e>
-    <e><p><l>lig<s n="vblex"/></l><r>liggen<s n="vblex"/></r></p></e>
+    <!--<e><p><l>lig<s n="vblex"/></l><r>liggen<s n="vblex"/></r></p></e>-->
+    <e><p><l>lê<s n="vblex"/></l><r>liggen<s n="vblex"/></r></p></e>
     <e><p><l>las<s n="vblex"/></l><r>lassen<s n="vblex"/></r></p></e>
     <e><p><l>berokken<s n="vblex"/></l><r>berokkenen<s n="vblex"/></r></p></e>
     <e><p><l>herroep<s n="vblex"/></l><r>herroepen<s n="vblex"/></r></p></e>
